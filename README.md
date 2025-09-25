@@ -60,8 +60,7 @@
 
 ## 📌 Pinned Repositories
 
-[![Drum Kit](https://github-readme-stats.vercel.app/api/pin/?username=adityasingh-rana&repo=drumKit&theme=radical)](https://github.com/adityasingh-rana/drumKit)
-[![Tic Tac Toe](https://github-readme-stats.vercel.app/api/pin/?username=adityasingh-rana&repo=tic_tac_toe-Game&theme=radical)](https://github.com/adityasingh-rana/tic_tac_toe-Game)
+[![The Coding Eagles](https://github-readme-stats.vercel.app/api/pin/?username=adityasingh-rana&repo=TheCodingEagles&theme=radical)](https://github.com/adityasingh-rana/TheCodingEagles)
 
 ---
 
