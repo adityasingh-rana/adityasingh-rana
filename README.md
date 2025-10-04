@@ -58,11 +58,6 @@
 
 ---
 
-## 📌 Pinned Repositories
-
-[![The Coding Eagles](https://github-readme-stats.vercel.app/api/pin/?username=adityasingh-rana&repo=TheCodingEagles&theme=radical)](https://github.com/adityasingh-rana/TheCodingEagles)
-
----
 
 ## 📈 GitHub Stats
 
