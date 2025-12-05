@@ -58,16 +58,6 @@
 
 ---
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasingh-rana&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasingh-rana&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 📝 Blog Posts
 
 > *Coming soon!* Planning to share DSA tricks, project breakdowns, and dev journey on [Hashnode](https://hashnode.com/) or [Medium](https://medium.com/).
