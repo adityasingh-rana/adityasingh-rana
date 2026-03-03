@@ -41,26 +41,34 @@ My current focus is mastering data structures, backend architecture, and writing
 
 ---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adityasingh-rana/adityasingh-rana/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 📌 Featured Projects
 
 ### 🎧 Drum Kit Game
-Browser-based interactive application implementing event-driven programming and dynamic DOM manipulation.  
-🔗 Live: https://adityasingh-rana.github.io/drumKit/  
-📂 Repo: https://github.com/adityasingh-rana/drumKit  
+Browser-based interactive application implementing event-driven programming and dynamic DOM manipulation.
+🔗 Live: https://adityasingh-rana.github.io/drumKit/
+📂 Repo: https://github.com/adityasingh-rana/drumKit
 
 ---
 
 ### ⭕ Tic Tac Toe
-Two-player interactive application implementing game-state management, conditional rendering, and algorithmic win-detection logic.  
-🔗 Live: https://adityasingh-rana.github.io/tic_tac_toe-Game/  
-📂 Repo: https://github.com/adityasingh-rana/tic_tac_toe-Game  
+Two-player interactive application implementing game-state management, conditional rendering, and algorithmic win-detection logic.
+🔗 Live: https://adityasingh-rana.github.io/tic_tac_toe-Game/
+📂 Repo: https://github.com/adityasingh-rana/tic_tac_toe-Game
 
 ---
 
 ### 🧠 Simon Game
-Interactive memory game implementing dynamic sequence generation, state tracking, and event-driven user input handling.  
-🔗 Live: https://adityasingh-rana.github.io/simon-game/  
-📂 Repo: https://github.com/adityasingh-rana/simon-game  
+Interactive memory game implementing dynamic sequence generation, state tracking, and event-driven user input handling.
+🔗 Live: https://adityasingh-rana.github.io/simon-game/
+📂 Repo: https://github.com/adityasingh-rana/simon-game
 
 ---
 
@@ -74,8 +82,8 @@ Interactive memory game implementing dynamic sequence generation, state tracking
 
 ## 🤝 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/adityasingh-rana  
-📬 Email: adityasinghk099@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/adityasingh-rana
+📬 Email: adityasinghk099@gmail.com
 
 ---
 
