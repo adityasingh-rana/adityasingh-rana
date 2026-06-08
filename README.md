@@ -51,10 +51,10 @@ My current focus is mastering data structures, backend architecture, and writing
 
 ## 📌 Featured Projects
 
-### 🎧 Drum Kit Game
-Browser-based interactive application implementing event-driven programming and dynamic DOM manipulation.
-🔗 Live: https://adityasingh-rana.github.io/drumKit/
-📂 Repo: https://github.com/adityasingh-rana/drumKit
+### Coding Club Website
+🔗 Live: [Open](https://iet-students-community.vercel.app/) 
+
+📂 Repo: [Open](https://github.com/ietrsc/coding-club-website)
 
 ---
 
