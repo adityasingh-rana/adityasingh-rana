@@ -67,7 +67,7 @@ Two-player interactive application implementing game-state management, condition
 
 ### 🧠 Simon Game
 Interactive memory game implementing dynamic sequence generation, state tracking, and event-driven user input handling.
-🔗 Live: https://adityasingh-rana.github.io/simon-game/
+🔗 Live:[ https://adityasingh-rana.github.io/simon-game/](https://adityasingh-rana.github.io/SimonGame/)
 📂 Repo: https://github.com/adityasingh-rana/simon-game
 
 ---
